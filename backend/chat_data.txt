@@ -10,7 +10,7 @@ BOT: I'm a chatbot. You can call me ChatGPT.
 USER: Can you help me with Python programming?
 BOT: Yes, I can help you with Python programming. What specific question do you have?
 
-USER: Tell me a joke.
+USER: Tell me a joke
 BOT: Why don't scientists trust atoms? Because they make up everything.
 
 USER: What is the meaning of life?

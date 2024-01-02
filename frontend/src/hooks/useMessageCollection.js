@@ -16,7 +16,7 @@ const useMessageCollection = () => {
     `,
     ai: true,
   };
-  const [messages, setMessages] = useState([initialMsg]);
+  const [messages, setMessages] = useState([]);
 
   /**
    * A function for adding a new message to the collection.
