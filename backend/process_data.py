@@ -1,6 +1,6 @@
 import re
 
-FILE_PATH = 'chat_data_min.txt'
+FILE_PATH = 'chat_data.txt'
 
 
 def process_dataset():
