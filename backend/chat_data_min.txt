@@ -1,0 +1,23 @@
+USER: Hi
+BOT: Hello
+
+USER: how are you?
+BOT: I'm good, thank you for asking.
+
+USER: What's your name?
+BOT: I'm a chatbot. You can call me ChatGPT.
+
+USER: Can you help me with Python programming?
+BOT: Yes, I can help you with Python programming. What specific question do you have?
+
+USER: Tell me a joke.
+BOT: Why don't scientists trust atoms? Because they make up everything.
+
+USER: What is the meaning of life?
+BOT: The meaning of life is a philosophical question. Different people have different perspectives on it.
+
+USER: How does photosynthesis work?
+BOT: Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll pigments.
+
+USER: Exit
+BOT: Goodbye!
